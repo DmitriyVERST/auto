@@ -23,4 +23,7 @@
 
 ```bash
 https://github.com/DmitriyVERST/auto.git
+```
+Live: https://dmitriyverst.github.io/auto/
+
 
